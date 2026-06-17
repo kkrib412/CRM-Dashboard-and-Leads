@@ -1,0 +1,6 @@
+{
+  "name": "CRM Sales Pipeline",
+  "description": "A responsive CRM and Sales Pipeline Tracking app to manage leads, view sales analytics, and automate follow-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
